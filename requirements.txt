@@ -1,0 +1,4 @@
+pycryptodome==3.24.0
+mutagen==1.48.1
+Pillow==12.3.0
+imageio-ffmpeg==0.6.0
